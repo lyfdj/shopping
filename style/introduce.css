@@ -1,0 +1,10 @@
+*{padding: 0;margin: 0;}
+.header{width: 100%;height: 116px;}
+.topBar{width: 60%;height: 32px;margin: 0 auto;line-height: 31px;}
+.leftArea{float: left;}
+.collection{background: url(../images/icon/collection.jpg) left center no-repeat;padding-left: 19px;font-weight: bold;}
+.topBar a:hover{color: red;}
+.rightArea{float: right;}
+.logoBar{width: 100%;height: 88px;background-color: #1D7AD9;}
+.logo{width: 60%;margin: 0 auto;line-height: 31px;}
+.logo_left{float: left;margin-left: 32px;margin-top: 16px;}
